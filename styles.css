@@ -387,7 +387,7 @@ p,span.panel-footer {
 /********** Large devices only **********/
 @media (min-width: 1200px) {
   .container .jumbotron {
-    background: url('./images/_JFS0884-1200.jpg') no-repeat;
+    background: url('b1.jpg') no-repeat;
     height: 675px;
   }
 }
@@ -405,7 +405,7 @@ p,span.panel-footer {
 
   /* Home Page */
   .container .jumbotron {
-    background: url('./images/_JFS0884-998.jpg') no-repeat;
+    background: url('b1.jpg') no-repeat;
     height: 558px;
   }
   /* End Home Page */
@@ -415,7 +415,7 @@ p,span.panel-footer {
 @media (min-width: 768px) and (max-width: 991px) {
   /* Home Page */
   .container .jumbotron {
-    background: url('./images/_JFS0884-768.jpg') no-repeat;
+    background: url('b1.jpg') no-repeat;
     height: 432px;
   }
   /* End Home Page */
