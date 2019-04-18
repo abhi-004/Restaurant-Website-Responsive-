@@ -110,6 +110,11 @@ body{
   margin-top: -30px;
 }
 
+.navbar-toggle {
+	padding:7px 10px;
+	margin-bottom: 0px;
+}
+
 .main_container{
 /*	background-image: url(chair-cutlery-diner-941861.jpg);
 	filter: blur(2px);
